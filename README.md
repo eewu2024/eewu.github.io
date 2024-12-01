@@ -102,7 +102,7 @@ User-provided data, such as facial images, is retained **only during the real-ti
 
 #### Retention Practices
 - **Real-Time Processing:** Temporary storage is necessary to process the image through the AI Portrait model and generate the requested output.
-- **Retention Period:** Data is stored only for the duration of processing, typically a few seconds, and deleted immediately afterward.
+- **Retention Period:** Data is stored only for the duration of processing, typically less than a minute, and deleted immediately afterward.
 - **Third Party Involvement:** The processing is handled by the Replicated platform. Replicated does not retain, store, or share any user-provided data.
 
 
