@@ -82,7 +82,7 @@ If you are located in the EU or UK, this section applies to you. The General Dat
 
 **In Short:** Yes, we use artificial intelligence technologies for processing user-uploaded images.
 
-We integrate the **AI Portrait model API** provided by the **Replicated platform** to enable AI-based functionalities in our Services. These technologies are designed to process user-uploaded facial images and apply outfit changes in real-time. The terms in this Privacy Notice govern your use of these AI Products within our Services.
+We integrate the **AI model API** provided by the **Replicated platform** to enable AI-based functionalities in our Services. These technologies are designed to process user-uploaded facial images and apply outfit changes in real-time. The terms in this Privacy Notice govern your use of these AI Products within our Services.
 
 #### Use of AI Technologies
 - **Data Collected:** The app processes only the facial images voluntarily uploaded by users. No additional biometric data is collected.
